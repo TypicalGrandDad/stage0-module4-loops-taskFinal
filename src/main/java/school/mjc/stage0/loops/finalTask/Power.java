@@ -7,6 +7,7 @@ public class Power {
             oneMoreNumber = oneMoreNumber * numberToPrint;
         }
         numberToPrint = oneMoreNumber;
+        System.out.println(numberToPrint);
 
     }
 
